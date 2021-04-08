@@ -1,5 +1,5 @@
 var url= window.location.href;
-var swLocation= '/ChatPecados/sw.js';
+var swLocation= '/ChatMalcolm/sw.js';
 
 if ( navigator.serviceWorker ) {
     if(url.includes('localhost')){

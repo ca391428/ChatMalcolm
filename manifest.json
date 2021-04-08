@@ -1,6 +1,6 @@
 {
-    "short_name":"Pecados", 
-    "name":"Chat de los Pecados Capitales",
+    "short_name":"Malcolm", 
+    "name":"Chat de Malcolm el de enmedio",
     "start_url":"index.html",
     "background_color":"#44ff5b",
     "display":"standalone",

@@ -11,11 +11,11 @@ const APP_SHELL =[ // Corazon de la aplicacion, appshel estatico
     'index.html',
     'css/style.css',
     'img/favicon.ico',
-    'img/avatars/Diana.jpg',
-    'img/avatars/Ban.jpg',
-    'img/avatars/King.jpg',
-    'img/avatars/Meliodas.jpg',
-    'img/avatars/Merlin.jpg',
+    'img/avatars/Malcolm.jpg',
+    'img/avatars/Hal.jpg',
+    'img/avatars/Reese.jpg',
+    'img/avatars/Dewey.jpg',
+    'img/avatars/Francis.jpg',
     'js/app.js',
     'js/sw-utils.js'
 ];
